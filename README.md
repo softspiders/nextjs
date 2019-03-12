@@ -7,6 +7,7 @@ Absent
 ## Direct descendants
 
 - [An Apollo Server & Client in Next.js in a yarn Workspace deployed with Zeit 2.0](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
+- [next-passport-oauth-google-email-nedb](https://github.com/softspider/next-passport-oauth-google-email-nedb)
 
 ## Requirements
 
