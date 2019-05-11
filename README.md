@@ -1,10 +1,6 @@
-# Minimalistic *Next.js* example
+# The simplest application on  *Next.js*
 
-## Direct ancestors
-
-Absent
-
-## Direct descendants
+## Direct feature descendants
 
 - [An Apollo Server & Client in Next.js in a yarn Workspace deployed with Zeit 2.0](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
 - [next-passport-oauth-google-email-nedb](https://github.com/softspider/next-passport-oauth-google-email-nedb)
@@ -41,4 +37,4 @@ The site is now running at http://localhost:3000.
 
 ### License
 
-Licensed under the [MIT license](./LICENSE).
+Licensed under the [MIT license](./LICENSE)
