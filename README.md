@@ -11,6 +11,8 @@ SOFTSPIDERS
 
 - [Minimalistic NextJS in TypeScript](https://github.com/softspider/next-typescript)
 - [next-passport-oauth-google-email-nedb](https://github.com/softspider/next-passport-oauth-google-email-nedb)
+- [lerna-next-with-lib](https://github.com/softspider/lerna-next-with-lib)
+
 
 ## Requirements
 
