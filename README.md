@@ -9,9 +9,9 @@ SOFTSPIDERS
 
 ## Direct descendants
 
-- [Minimalistic NextJS in TypeScript](https://github.com/softspider/next-typescript)
-- [next-passport-oauth-google-email-nedb](https://github.com/softspider/next-passport-oauth-google-email-nedb)
-- [Minimalistic template for NextJS application with library in Lerna monorepo](https://github.com/softspider/lerna-next-with-lib)
+- [Minimalistic NextJS in TypeScript](https://github.com/softspiders/next-typescript)
+- [next-passport-oauth-google-email-nedb](https://github.com/softspiders/next-passport-oauth-google-email-nedb)
+- [Minimalistic template for NextJS application with library in Lerna monorepo](https://github.com/softspiders/lerna-next-with-lib)
 
 
 ## Requirements
