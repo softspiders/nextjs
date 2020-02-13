@@ -1,10 +1,11 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # The simplest application on  *Next.js*
 
 ## Feature tags
 
 - nextjs
+- starter
 - template
 
 ## Direct descendants
